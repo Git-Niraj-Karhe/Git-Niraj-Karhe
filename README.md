@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niraj-Karhe
-- 👀 I’m interested in Cloud Technologied
+- 👀 I’m interested in Cloud Technologies
 - 🌱 I’m currently learning Azure, Power Apps, Power BI and SQL
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach : 
