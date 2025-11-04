@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niraj-Karhe
 - 👀 I’m interested in Cloud Technologies
-- 🌱 I’m currently learning Azure, Power Apps, Power BI and SQL
+- 🌱 I’m currently learning Snowflake and AWS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach : 
 
